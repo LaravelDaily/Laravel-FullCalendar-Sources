@@ -4,7 +4,7 @@ Also, it adds a filter dropdown on top to search for particular data - in this c
 
 Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.com) using [System Calendar module](https://www.youtube.com/watch?v=gkEKNsU6tmA)
 
-Watch the full live-coding video with explanations: [Laravel+FullCalendar: Two Models on Calendar - with QuickAdminPanel]()
+Watch the full live-coding video with explanations: [Laravel+FullCalendar: Two Models on Calendar - with QuickAdminPanel](https://www.youtube.com/watch?v=T1SuioqmBzI)
 
 ---
 
